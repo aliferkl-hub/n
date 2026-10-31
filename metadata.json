@@ -1,0 +1,8 @@
+{
+  "name": "NEXORA BUSINESS — Inteligência Empresarial, Vendas & Crescimento",
+  "description": "Plataforma SaaS multissetorial futurista e premium de gestão empresarial, vendas, automação WhatsApp Cloud, inteligência artificial e expansão de negócios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
